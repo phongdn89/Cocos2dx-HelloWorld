@@ -1,0 +1,277 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\2d\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\3d\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\ui\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\math\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\base\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\extensions\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\audio\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\uv\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\md5\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\png\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\physics\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\navmesh\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\network\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\jpeg\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\webp\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\curl\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\zlib\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\platform\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\renderer\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\Box2D\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\xxtea\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\unzip\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\physics3d\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\recast\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\bullet\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\xxhash\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\openssl\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\clipper\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\chipmunk\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\tinyxml2\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\poly2tri\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\freetype2\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\websockets\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\edtaa3func\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\ConvertUTF\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\platform\\android\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\cocos\\editor-support\\cocostudio\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\android-specific\\tremolo\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\android-specific\\pvmp3dec\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\cocos2d\\external\\android-specific\\cpufeatures\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ext_tremolo-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_tremolo"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_tremolo",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_tremolo.a"
+    },
+    "ext_recast-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_recast"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_recast",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_recast.a"
+    },
+    "ext_edtaa3func-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_edtaa3func"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_edtaa3func",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_edtaa3func.a"
+    },
+    "cpp_android_spec-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "cpp_android_spec"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "cpp_android_spec",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\engine\\cocos\\platform\\libcpp_android_spec.a"
+    },
+    "ext_tinyxml2-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_tinyxml2"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_tinyxml2",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_tinyxml2.a"
+    },
+    "ext_clipper-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_clipper"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_clipper",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_clipper.a"
+    },
+    "ext_pvmp3dec-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_pvmp3dec"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_pvmp3dec",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_pvmp3dec.a"
+    },
+    "ext_xxtea-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_xxtea"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_xxtea",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_xxtea.a"
+    },
+    "ext_xxhash-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_xxhash"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_xxhash",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_xxhash.a"
+    },
+    "cocos2d-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "cocos2d"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "cocos2d",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libcocos2d.a"
+    },
+    "ext_convertUTF-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_convertUTF"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_convertUTF",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_convertUTF.a"
+    },
+    "ext_poly2tri-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_poly2tri"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_poly2tri",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_poly2tri.a"
+    },
+    "ext_unzip-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_unzip"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_unzip",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_unzip.a"
+    },
+    "MyGame-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "MyGame"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "MyGame",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libMyGame.so",
+      "runtimeFiles": []
+    },
+    "external-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "external"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "external",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libexternal.a"
+    },
+    "ext_md5-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_md5"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_md5",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\lib\\libext_md5.a"
+    },
+    "ext_cpufeatures-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+        "ext_cpufeatures"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "ext_cpufeatures",
+      "output": "C:\\Users\\DELL\\Documents\\Projects\\Freelancer\\games\\HelloWorld\\proj.android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\engine\\external\\android-specific\\cpufeatures\\libext_cpufeatures.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

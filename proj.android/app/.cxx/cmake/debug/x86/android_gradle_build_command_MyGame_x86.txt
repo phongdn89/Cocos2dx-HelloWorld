@@ -1,0 +1,7 @@
+Executable : C:\Users\DELL\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\DELL\Documents\Projects\Freelancer\games\HelloWorld\proj.android\app\.cxx\cmake\debug\x86
+MyGame
+jvmArgs : 
+
